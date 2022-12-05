@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeffryhawchab
 - 👀 I’m interested in web development and cybersecurity
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning Vue.js
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me: jeffryhawchab.netlify.app
 
