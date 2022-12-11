@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and cybersecurity
 - 🌱 I’m currently learning Vue.js
 - 💞️ I’m looking to collaborate on web projects
-- 📫 How to reach me: jeffryhawchab.netlify.app
+- 📫 How to reach me: jeffryhawchab.netlify.app or jeffhawchab.netlify.app
 
 <!---
 jeffryhawchab/jeffryhawchab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
