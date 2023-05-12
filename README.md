@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a todo app in react native <br>👯 I’m looking to collaborate on Frontend projects<br>🌱 I’m currently learning reactjs<br> ⚡ Ask me about anything, Except Maths 😅 <br> 👨‍💻 Life Hack: Learn new tech 🔥 and share what you have learned <br> ⚡ Fun fact: I'm a self taught developer 
+🔭 I’m currently learning mongodb  <br>👯 I’m looking to collaborate on Frontend projects<br>🌱 I’m currently learning reactjs<br> ⚡ Ask me about anything, Except Maths 😅 <br> 👨‍💻 Life Hack: Learn new tech 🔥 and share what you have learned <br> ⚡ Fun fact: I'm a self taught developer 
 
 
 ## 🌐 Socials:
