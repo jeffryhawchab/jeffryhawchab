@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning astrojs  <br>👯 I’m looking to collaborate on web projects <br>🌱 I’m currently working on a website called BellaBite <br> ⚡ Ask me about anything, Except regex 😅 <br> 👨‍💻 Life Hack: Learn new tech 🔥 and share what you have learned <br> ⚡ Fun fact: I'm a self taught developer 
+🔭 I’m currently learning flutter  <br>👯 I’m looking to collaborate on web projects <br>🌱 I’m currently working on a website called BellaBite <br> ⚡ Ask me about anything, Except regex 😅 <br> 👨‍💻 Life Hack: Learn new tech 🔥 and share what you have learned <br> ⚡ Fun fact: I'm a self taught developer 
 
 
 ## 🌐 Socials:
